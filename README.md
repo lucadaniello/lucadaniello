@@ -5,11 +5,9 @@ I'm Luca D'Aniello — a Ph.D. in Statistics for Social Sciences, currently work
 
 👥 I'm part of:
 
-🎓 [**K-Synth**](https://www.bibliometrix.org/home/index.php/about-us-2/k-synth-team)
-An academic spin-off dedicated to knowledge synthesis and evidence-based decision making.
+🎓 [**K-Synth**](https://www.bibliometrix.org/home/index.php/about-us-2/k-synth-team) - An academic spin-off dedicated to knowledge synthesis and evidence-based decision making.
 
-📚 [**bibliometrix**](https://www.bibliometrix.org)  
-The open-source ecosystem for science mapping and bibliometric analysis in R.
+📚 [**bibliometrix**](https://www.bibliometrix.org) - The open-source ecosystem for science mapping and bibliometric analysis in R.
 
 🚀 I am also the co-author and developer of [**TALL – Text Analysis for All**](https://www.tall-app.com), an R Shiny application designed to support researchers and practitioners in performing advanced text analysis without programming skills.
 
