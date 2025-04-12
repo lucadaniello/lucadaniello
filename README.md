@@ -4,6 +4,7 @@ I'm Luca D'Aniello — a Ph.D. in Statistics for Social Sciences, currently work
 🔬 I specialize in applied statistics, text analysis, and data science for the social sciences. My work bridges academic research and open-source development, with a strong focus on making advanced methods accessible and reproducible.
 
 👥 I'm part of:
+
 🎓 [**K-Synth**](https://www.bibliometrix.org/home/index.php/about-us-2/k-synth-team)
 An academic spin-off dedicated to knowledge synthesis and evidence-based decision making.
 
