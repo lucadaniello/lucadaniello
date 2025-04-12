@@ -1,5 +1,5 @@
 👋 Welcome!
-I'm Luca D'Aniello — a Ph.D. in Statistics for Social Sciences, currently working as a Research Fellow at the Department of Economics and Statistics, University of Naples Federico II.
+I'm Luca D'Aniello - Ph.D. in Statistics for Social Sciences - currently working as a Research Fellow at the Department of Economics and Statistics, University of Naples Federico II.
 
 🔬 I specialize in applied statistics, text analysis, and data science for the social sciences. My work bridges academic research and open-source development, with a strong focus on making advanced methods accessible and reproducible.
 
